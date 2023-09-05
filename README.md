@@ -12,6 +12,9 @@ a form that can be used by scholars. It handles the three main scripts of Syriac
 and has also been used to tranliterate othe connected script
 languages such as Arabic and Urdu. 
 
+I have also written the software for the next generation of automatic number plate recognition
+for UK car number plates. 
+
 A recent project is an animated simulation of a community of agents
 to investigate personhood and relationality issues in computational sociology.
 
