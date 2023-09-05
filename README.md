@@ -6,3 +6,14 @@ Calliope was 56,000 lines of Objective-C and ran on NextStep computers.
 Now translating Calliope into JavaFX and using modern technology e.g. SMuFL, MusicXML, to run on Mac OS. 
 Interested in using MNX as an interchange format. 
 
+Other projects include a program for OCR of historical Syriac manuscripts and printed books. 
+This has been used to transliterate about 20% of the world's corpus of Syriac into
+a form that can be used by scholars. It handles the three main scripts of Syriac,
+and has also been used to tranliterate othe connected script
+languages such as Arabic and Urdu. 
+
+A recent project is an animated simulation of a community of agents
+to investigate personhood and relationality issues in computational sociology.
+
+These projects will eventually find their way onto GitHub when
+I figure out how to do it.
