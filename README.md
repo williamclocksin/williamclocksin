@@ -9,8 +9,8 @@ Interested in using MNX as an interchange format.
 Other projects include a program for OCR of historical Syriac manuscripts and printed books. 
 This has been used to transliterate about 20% of the world's corpus of Syriac into
 a form that can be used by scholars. It handles the three main scripts of Syriac,
-and has also been used to tranliterate othe connected script
-languages such as Arabic and Urdu. 
+and has also been used to transliterate other connected script
+languages such as Arabic, Urdu, and English cursive handwriting. 
 
 I have also written the software for the next generation of automatic number plate recognition
 for UK car number plates. 
